@@ -1,0 +1,1 @@
+docker-compose -p DungeonBoard1 -f docker/docker-compose.yml  up
